@@ -22,7 +22,7 @@ import thunk from 'redux-thunk';
 //
 // const sagaMiddleware = createSagaMiddleware();
 //
-// const store = createStore(rootReducer, composeEnhancers(applyMiddleware(thunk, sagaMiddleware)));
+// const store= createStore(rootReducer, composeEnhancers(applyMiddleware(thunk, sagaMiddleware)));
 //
 // sagaMiddleware.run(watchAuthSagas);
 //
